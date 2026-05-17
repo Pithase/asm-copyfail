@@ -584,4 +584,10 @@ uid=0(root) gid=1000(gmg) groups=1000(gmg),4(adm),24(cdrom),27(sudo),30(dip),46(
 # exit
 ```
 
-> ⚠️ No olvidar [reactivar la protección](#reactivar-la-protección) una vez finalizada la prueba.
+> ⚠️ No olvidar [reactivar la protección](#reactivar-la-protección) una vez finalizada la prueba.  
+
+## Contacto  
+
+Si tenés dudas, sugerencias o correcciones, escribime indicando el nombre de repositorio a:  
+✉️ `github@pithase.com.ar`
+
